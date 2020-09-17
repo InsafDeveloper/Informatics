@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/bin/Debug/MathTriangleSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/bin/Debug/MathTriangleSolver.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/obj/Debug/MathTriangleSolver.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/obj/Debug/MathTriangleSolver.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/obj/Debug/MathTriangleSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriangleSolver/obj/Debug/MathTriangleSolver.pdb

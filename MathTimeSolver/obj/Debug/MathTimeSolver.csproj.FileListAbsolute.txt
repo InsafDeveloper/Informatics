@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/bin/Debug/MathTimeSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/bin/Debug/MathTimeSolver.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/obj/Debug/MathTimeSolver.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/obj/Debug/MathTimeSolver.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/obj/Debug/MathTimeSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTimeSolver/obj/Debug/MathTimeSolver.pdb
