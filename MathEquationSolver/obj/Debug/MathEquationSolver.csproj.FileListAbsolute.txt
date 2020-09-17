@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/bin/Debug/MathEquationSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/bin/Debug/MathEquationSolver.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/obj/Debug/MathEquationSolver.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/obj/Debug/MathEquationSolver.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/obj/Debug/MathEquationSolver.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathEquationSolver/obj/Debug/MathEquationSolver.pdb
