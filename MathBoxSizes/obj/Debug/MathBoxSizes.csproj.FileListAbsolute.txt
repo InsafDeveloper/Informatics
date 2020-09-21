@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/bin/Debug/MathBoxSizes.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/bin/Debug/MathBoxSizes.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/obj/Debug/MathBoxSizes.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/obj/Debug/MathBoxSizes.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/obj/Debug/MathBoxSizes.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathBoxSizes/obj/Debug/MathBoxSizes.pdb

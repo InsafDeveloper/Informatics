@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/bin/Debug/MathCheckCircle.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/bin/Debug/MathCheckCircle.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/obj/Debug/MathCheckCircle.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/obj/Debug/MathCheckCircle.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/obj/Debug/MathCheckCircle.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathCheckCircle/obj/Debug/MathCheckCircle.pdb
