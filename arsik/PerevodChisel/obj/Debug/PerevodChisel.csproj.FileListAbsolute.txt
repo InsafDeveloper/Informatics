@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/bin/Debug/PerevodChisel.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/bin/Debug/PerevodChisel.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/obj/Debug/PerevodChisel.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/obj/Debug/PerevodChisel.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/obj/Debug/PerevodChisel.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PerevodChisel/obj/Debug/PerevodChisel.pdb

@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/bin/Debug/PointInCircle.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/bin/Debug/PointInCircle.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/obj/Debug/PointInCircle.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/obj/Debug/PointInCircle.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/obj/Debug/PointInCircle.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/PointInCircle/obj/Debug/PointInCircle.pdb

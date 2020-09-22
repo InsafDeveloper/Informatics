@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/bin/Debug/Triangle.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/bin/Debug/Triangle.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/obj/Debug/Triangle.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/obj/Debug/Triangle.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/obj/Debug/Triangle.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Triangle/obj/Debug/Triangle.pdb

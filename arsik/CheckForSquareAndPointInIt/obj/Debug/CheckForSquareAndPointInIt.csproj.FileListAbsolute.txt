@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/bin/Debug/CheckForSquareAndPointInIt.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/bin/Debug/CheckForSquareAndPointInIt.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/obj/Debug/CheckForSquareAndPointInIt.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/obj/Debug/CheckForSquareAndPointInIt.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/obj/Debug/CheckForSquareAndPointInIt.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/CheckForSquareAndPointInIt/obj/Debug/CheckForSquareAndPointInIt.pdb

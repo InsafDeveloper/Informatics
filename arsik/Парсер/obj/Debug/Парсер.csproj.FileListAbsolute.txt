@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/bin/Debug/Парсер.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/bin/Debug/Парсер.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/obj/Debug/Парсер.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/obj/Debug/Парсер.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/obj/Debug/Парсер.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Парсер/obj/Debug/Парсер.pdb
