@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/obj/Debug/parser.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/obj/Debug/parser.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/bin/Debug/parser.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/bin/Debug/parser.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/obj/Debug/parser.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/parser/obj/Debug/parser.pdb

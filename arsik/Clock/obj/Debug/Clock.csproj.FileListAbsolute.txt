@@ -1,0 +1,6 @@
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/bin/Debug/Clock.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/bin/Debug/Clock.pdb
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/obj/Debug/Clock.csprojAssemblyReference.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/obj/Debug/Clock.csproj.CoreCompileInputs.cache
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/obj/Debug/Clock.exe
+/Users/mfcitycapital/RiderProjects/ClassLibrary1/Clock/obj/Debug/Clock.pdb
