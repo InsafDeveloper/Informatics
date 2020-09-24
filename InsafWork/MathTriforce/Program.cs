@@ -17,7 +17,8 @@ namespace MathTriforce
         static void PrintMatrix(in Triforce triforce)
         {
             for (int i = 0; i < triforce.Height * 2; i++)
-            {
+            { 
+                ForegroundColor = (ConsoleColor) new Random().Next(16);
                 for (int j = 0; j < triforce.TriforceMatrix.GetLength(1); j++)
                 {
                     ForegroundColor = (ConsoleColor) new Random().Next(16);
