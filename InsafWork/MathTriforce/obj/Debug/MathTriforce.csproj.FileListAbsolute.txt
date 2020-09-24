@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/bin/Debug/MathTriforce.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/bin/Debug/MathTriforce.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/obj/Debug/MathTriforce.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/obj/Debug/MathTriforce.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/obj/Debug/MathTriforce.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/MathTriforce/obj/Debug/MathTriforce.pdb
