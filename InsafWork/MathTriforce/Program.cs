@@ -67,8 +67,8 @@ namespace MathTriforce
                     else if (charLength != 0)
                     {
                         ForegroundColor = (ConsoleColor) new Random().Next(16);
-                        triforceMatrix[i, j] = '*';
-                        triforceMatrix[i, triforceMatrix.GetLength(1) - j - 1] = '*';
+                        triforceMatrix[i, j] = '▲';
+                        triforceMatrix[i, triforceMatrix.GetLength(1) - j - 1] = '▲';
                         charLength--;
                     }
                 }
