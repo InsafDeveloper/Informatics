@@ -13,10 +13,18 @@ namespace Kr28
             double a = Double.Parse(ReadLine());
             Write("Введите b: "  );
             double b = Double.Parse(ReadLine());
-            Write("Введите n (шаг): "  );
-            int n = Int32.Parse(ReadLine());
             
-            WriteLine("Ответ: " + CalculateIntegral(a, b, n));
+            if (a >= b)
+                WriteLine("Неверный интервал. Начальное значение должно быть меньше конечного");
+            else
+            {
+                Write("Введите n (шаг): ");
+                int n = Int32.Parse(ReadLine());
+                if (n > 0)
+                    WriteLine("Шаг сетки должен быть положительным и целым!!!");
+                else
+                    WriteLine("Ответ: " + CalculateIntegral(a, b, n));
+            }
         }
         
         private static double Function(double x)
@@ -38,7 +46,7 @@ namespace Kr28
             }
             result *= h;
  
-            return -result;
+            return result;
         }
     }
 }

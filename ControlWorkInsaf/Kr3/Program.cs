@@ -8,8 +8,12 @@ namespace Kr3
         public static void Main(string[] args)
         {
             Write("Введите N для Фибоначчи ");
-         
-            Write(Fibonachi(Int32.Parse(ReadLine())));
+
+            int n = Int32.Parse(ReadLine());
+            if (n < 0)
+                WriteLine("Число должно быть положительным");
+            else
+                Write(Fibonachi(Int32.Parse(ReadLine())));
         }
         
         private static int Fibonachi(int n)

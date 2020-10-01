@@ -12,9 +12,13 @@ namespace Kr18
             double K = Double.Parse(ReadLine());
 
             var f = K * Izmereniya.Kabelt / Izmereniya.furlong;
-            
-            WriteLine(K + " кабельтов это: " + f + " фурлонгов");
-            WriteLine(f + " фурлонгов это: " + f * Izmereniya.furlong + " метров");
+            if (f < 0 || K < 0)
+                WriteLine("Числа должны быть положительными!");
+            else
+            {
+                WriteLine(K + " кабельтов это: " + f + " фурлонгов");
+                WriteLine(f + " фурлонгов это: " + f * Izmereniya.furlong + " метров");
+            }
         }
     }
 
