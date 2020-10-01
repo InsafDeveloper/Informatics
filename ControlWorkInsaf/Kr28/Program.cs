@@ -34,11 +34,11 @@ namespace Kr28
  
             for(i = 1; i <= n; i++)
             {
-                result += Function(a + h * i - h/2);
+                result += Function(a + h * i);
             }
             result *= h;
  
-            return result;
+            return -result;
         }
     }
 }
