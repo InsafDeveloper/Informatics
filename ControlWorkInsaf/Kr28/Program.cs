@@ -16,12 +16,12 @@ namespace Kr28
             Write("Введите n (шаг): "  );
             int n = Int32.Parse(ReadLine());
             
-            WriteLine(CalculateIntegral(a, b, n));
+            WriteLine("Ответ: " + CalculateIntegral(a, b, n));
         }
         
         private static double Function(double x)
         {   
-            return 1/Sqrt(2*x*x+1.3);
+            return Cos(x);
         }
         
         private static double CalculateIntegral(double a, double b, int n)
