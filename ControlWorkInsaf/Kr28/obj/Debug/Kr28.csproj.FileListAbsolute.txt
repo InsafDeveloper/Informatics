@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/KR/Kr28/bin/Debug/Kr28.exe
+/Users/insafginiatov/RiderProjects/KR/Kr28/bin/Debug/Kr28.pdb
+/Users/insafginiatov/RiderProjects/KR/Kr28/obj/Debug/Kr28.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/KR/Kr28/obj/Debug/Kr28.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/KR/Kr28/obj/Debug/Kr28.exe
+/Users/insafginiatov/RiderProjects/KR/Kr28/obj/Debug/Kr28.pdb

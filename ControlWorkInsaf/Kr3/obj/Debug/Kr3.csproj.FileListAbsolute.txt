@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/KR/Kr3/bin/Debug/Kr3.exe
+/Users/insafginiatov/RiderProjects/KR/Kr3/bin/Debug/Kr3.pdb
+/Users/insafginiatov/RiderProjects/KR/Kr3/obj/Debug/Kr3.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/KR/Kr3/obj/Debug/Kr3.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/KR/Kr3/obj/Debug/Kr3.exe
+/Users/insafginiatov/RiderProjects/KR/Kr3/obj/Debug/Kr3.pdb
