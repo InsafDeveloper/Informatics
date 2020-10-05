@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/bin/Debug/LetterForNumber.exe
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/bin/Debug/LetterForNumber.pdb
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/obj/Debug/LetterForNumber.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/obj/Debug/LetterForNumber.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/obj/Debug/LetterForNumber.exe
+/Users/arslanrashidov/RiderProjects/Solution/LetterForNumber/obj/Debug/LetterForNumber.pdb

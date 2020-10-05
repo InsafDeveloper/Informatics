@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/bin/Debug/Capitalization.exe
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/bin/Debug/Capitalization.pdb
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/obj/Debug/Capitalization.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/obj/Debug/Capitalization.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/obj/Debug/Capitalization.exe
+/Users/arslanrashidov/RiderProjects/Solution/Capitalization/obj/Debug/Capitalization.pdb

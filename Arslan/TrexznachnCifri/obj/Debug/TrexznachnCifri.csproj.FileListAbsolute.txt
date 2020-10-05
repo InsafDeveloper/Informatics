@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/bin/Debug/TrexznachnCifri.exe
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/bin/Debug/TrexznachnCifri.pdb
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/obj/Debug/TrexznachnCifri.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/obj/Debug/TrexznachnCifri.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/obj/Debug/TrexznachnCifri.exe
+/Users/arslanrashidov/RiderProjects/Solution/TrexznachnCifri/obj/Debug/TrexznachnCifri.pdb
