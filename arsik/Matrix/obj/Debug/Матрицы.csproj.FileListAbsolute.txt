@@ -1,6 +1,0 @@
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/bin/Debug/Матрицы.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/bin/Debug/Матрицы.pdb
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/obj/Debug/Матрицы.csprojAssemblyReference.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/obj/Debug/Матрицы.csproj.CoreCompileInputs.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/obj/Debug/Матрицы.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Матрицы/obj/Debug/Матрицы.pdb

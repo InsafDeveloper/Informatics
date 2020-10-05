@@ -1,6 +1,0 @@
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/ClassLibrary1.dll
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/ClassLibrary1.pdb
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/ClassLibrary1.csprojAssemblyReference.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/ClassLibrary1.csproj.CoreCompileInputs.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/ClassLibrary1.dll
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/ClassLibrary1.pdb

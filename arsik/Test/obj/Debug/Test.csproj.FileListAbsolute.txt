@@ -1,6 +1,0 @@
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/bin/Debug/Test.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/bin/Debug/Test.pdb
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/obj/Debug/Test.csprojAssemblyReference.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/obj/Debug/Test.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Test/obj/Debug/Test.pdb
