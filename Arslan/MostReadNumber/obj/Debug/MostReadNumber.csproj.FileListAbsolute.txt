@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/bin/Debug/MostReadNumber.exe
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/bin/Debug/MostReadNumber.pdb
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/obj/Debug/MostReadNumber.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/obj/Debug/MostReadNumber.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/obj/Debug/MostReadNumber.exe
+/Users/arslanrashidov/RiderProjects/Solution/MostReadNumber/obj/Debug/MostReadNumber.pdb

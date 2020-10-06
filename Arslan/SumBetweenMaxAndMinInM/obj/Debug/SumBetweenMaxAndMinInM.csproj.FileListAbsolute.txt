@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/obj/Debug/SumBetweenMaxAndMinInM.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/obj/Debug/SumBetweenMaxAndMinInM.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/bin/Debug/SumBetweenMaxAndMinInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/bin/Debug/SumBetweenMaxAndMinInM.pdb
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/obj/Debug/SumBetweenMaxAndMinInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/SumBetweenMaxAndMinInM/obj/Debug/SumBetweenMaxAndMinInM.pdb

@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/obj/Debug/MassiveOfNames.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/obj/Debug/MassiveOfNames.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/bin/Debug/MassiveOfNames.exe
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/bin/Debug/MassiveOfNames.pdb
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/obj/Debug/MassiveOfNames.exe
+/Users/arslanrashidov/RiderProjects/Solution/MassiveOfNames/obj/Debug/MassiveOfNames.pdb

@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/bin/Debug/MassiveMove.exe
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/bin/Debug/MassiveMove.pdb
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/obj/Debug/MassiveMove.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/obj/Debug/MassiveMove.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/obj/Debug/MassiveMove.exe
+/Users/arslanrashidov/RiderProjects/Solution/MassiveMove/obj/Debug/MassiveMove.pdb

@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/bin/Debug/LengthOfWordsInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/bin/Debug/LengthOfWordsInM.pdb
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/obj/Debug/LengthOfWordsInM.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/obj/Debug/LengthOfWordsInM.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/obj/Debug/LengthOfWordsInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/LengthOfWordsInM/obj/Debug/LengthOfWordsInM.pdb

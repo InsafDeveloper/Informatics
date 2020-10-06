@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/bin/Debug/MedianaOfMassive.exe
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/bin/Debug/MedianaOfMassive.pdb
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/obj/Debug/MedianaOfMassive.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/obj/Debug/MedianaOfMassive.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/obj/Debug/MedianaOfMassive.exe
+/Users/arslanrashidov/RiderProjects/Solution/MedianaOfMassive/obj/Debug/MedianaOfMassive.pdb
