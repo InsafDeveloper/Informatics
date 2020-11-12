@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/bin/Debug/ModuleBolsheMaxInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/bin/Debug/ModuleBolsheMaxInM.pdb
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/obj/Debug/ModuleBolsheMaxInM.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/obj/Debug/ModuleBolsheMaxInM.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/obj/Debug/ModuleBolsheMaxInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/ModuleBolsheMaxInM/obj/Debug/ModuleBolsheMaxInM.pdb

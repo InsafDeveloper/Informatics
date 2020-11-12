@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/bin/Debug/StringBuilderTasks.exe
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/bin/Debug/StringBuilderTasks.pdb
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/obj/Debug/StringBuilderTasks.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/obj/Debug/StringBuilderTasks.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/obj/Debug/StringBuilderTasks.exe
+/Users/arslanrashidov/RiderProjects/Solution/StringBuilderTasks/obj/Debug/StringBuilderTasks.pdb

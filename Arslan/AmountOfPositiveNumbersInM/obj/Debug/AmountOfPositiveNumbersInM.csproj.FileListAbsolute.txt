@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/bin/Debug/AmountOfPositiveNumbersInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/bin/Debug/AmountOfPositiveNumbersInM.pdb
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/obj/Debug/AmountOfPositiveNumbersInM.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/obj/Debug/AmountOfPositiveNumbersInM.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/obj/Debug/AmountOfPositiveNumbersInM.exe
+/Users/arslanrashidov/RiderProjects/Solution/AmountOfPositiveNumbersInM/obj/Debug/AmountOfPositiveNumbersInM.pdb

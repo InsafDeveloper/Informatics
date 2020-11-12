@@ -1,6 +1,0 @@
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/bin/Debug/Infa.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/bin/Debug/Infa.pdb
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/obj/Debug/Infa.csprojAssemblyReference.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/obj/Debug/Infa.csproj.CoreCompileInputs.cache
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/obj/Debug/Infa.exe
-/Users/mfcitycapital/RiderProjects/ClassLibrary1/Infa/obj/Debug/Infa.pdb
