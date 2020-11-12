@@ -1,0 +1,6 @@
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/bin/Debug/cr3.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/bin/Debug/cr3.pdb
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/obj/Debug/cr3.csprojAssemblyReference.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/obj/Debug/cr3.csproj.CoreCompileInputs.cache
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/obj/Debug/cr3.exe
+/Users/insafginiatov/RiderProjects/ConsoleApp/cr3/obj/Debug/cr3.pdb
