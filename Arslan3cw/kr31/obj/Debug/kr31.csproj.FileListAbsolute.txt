@@ -1,0 +1,6 @@
+/Users/arslanrashidov/RiderProjects/Solution/kr31/bin/Debug/kr31.exe
+/Users/arslanrashidov/RiderProjects/Solution/kr31/bin/Debug/kr31.pdb
+/Users/arslanrashidov/RiderProjects/Solution/kr31/obj/Debug/kr31.csprojAssemblyReference.cache
+/Users/arslanrashidov/RiderProjects/Solution/kr31/obj/Debug/kr31.csproj.CoreCompileInputs.cache
+/Users/arslanrashidov/RiderProjects/Solution/kr31/obj/Debug/kr31.exe
+/Users/arslanrashidov/RiderProjects/Solution/kr31/obj/Debug/kr31.pdb
